@@ -55,16 +55,10 @@
   ],
   "users": [
     {
-      "id": 1,
-      "name": "Ariful Islam",
-      "email": "arifulislamjoy597@gmail.com",
-      "description": "About says web developing"
-    },
-    {
       "name": "a",
       "email": "a@gmail.com",
-      "description": "arif",
-      "id": 2
+      "description": "adss",
+      "id": 1
     }
   ],
   "post": [],

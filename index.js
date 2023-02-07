@@ -11,3 +11,4 @@ server.use(router);
 
 server.listen(port);
 // "start": "node index.js"
+// "start": "json-server --watch db.json --no-cors true --port 4000"
